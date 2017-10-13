@@ -1,5 +1,3 @@
-# 机器学习
+# ml-notes
 
-* 目的：主要用于记录在机器学习课程中的学习结果
-
-
+Just some notes on machine learning, stored on GitHub.
